@@ -1,6 +1,6 @@
 # Saise a Scheisse 💩 game
 
-This is the front ent app for a dice game I knew at the beginning as saise, a bad mispronunciation of german word Scheisse
+This is the front end app for a dice game I knew at the beginning as saise, a bad mispronunciation of german word Scheisse
 
 ## Game
 
